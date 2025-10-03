@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  background-color: aqua;
+}
+
+.clock {
+  width: 400px;
+  height: 300px;
+  border: 2px solid red;
+  margin: 200px 180px 0px;
+  padding: 18px 200px;
+  background-color: aliceblue;
+}
+
+.clock h1 {
+  text-align: center;
+}
+.countdown {
+  padding: 19px;
+  margin: 20px;
+}
+
+#countdown {
+  padding: 19px;
+  margin: 24px;
+  font-size: xx-large;
+  font-weight: 800;
+}
